@@ -134,7 +134,7 @@
 }
 
 .hero-section{
-    background-image:url(/hero_section.jpg);
+    background-image:url(hero_section.jpg);
     height:400px;
     background-size: cover;
     display: flex;
